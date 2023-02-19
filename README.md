@@ -5,5 +5,4 @@ SNU Shuttle Bus Queue Information Service via YOLOv5 (SNU GSDS Ambient AI Compet
 
 ##### ! updated code for optimization in terms of pedestrians waiting in line based on Linear Regression
 
-#### Sungwon Chae*, Sangmin Lee*, Joomyeong Kim*, Haemin Jang**, Seonggu Shin**
-##### (*SNU IE **SNU GSDS)
+####  Joomyeong Kim*, Sangmin Lee*, Sungwon Chae* (SNU IE Colleagues)
